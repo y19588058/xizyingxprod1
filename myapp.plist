@@ -13,25 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://10.233.86.30:8199/app/TC_TIMS.ipa</string>
-    </dict>
-    <dict>
-     <key>kind</key>
-     <string>full-size-image</string>
-     <key>needs-shine</key>
-     <true/>
-     <key>url</key>
-     <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://10.233.86.30:8199/app/icon_512_512.png</string>
-    </dict>
-    <dict>
-     <key>kind</key>
-     <string>display-image</string>
-     <key>needs-shine</key>
-     <true/>
-     <key>url</key>
-     <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://10.233.86.30:8199/app/icon_57_57.png</string>
+     <string>http://10.233.86.17:8199/taccs/TC_TIMS.ipa</string>
     </dict>
    </array>
    <key>metadata</key>
